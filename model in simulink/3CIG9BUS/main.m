@@ -13,4 +13,5 @@ kv = 4;
 ts_pi = 5;
 ct = 4;
 Ts = 5e-5;
+k_pll = [80 1200 0];
 % save('result60.mat','P','fre','V_mag');
